@@ -1,0 +1,350 @@
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "85602311-629f-437e-99fe-b199c5284509", "bedId": "B09", "source": "SOURCE_A", "eventTime": 1788629283.9768698, "note": "Ignored \u2013 older than current knowledge", "ts": 1788629296.1777394, "id": "a2203a60-7f85-4f80-8d2a-7bfe1ed65685"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B09", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788629298.1105998, "id": "368ef3bf-40db-48fb-8860-00a7170747ce"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788629309.0789917, "id": "4f12ddbc-398b-4fba-9eed-a9d00429822f"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788629309.5865552, "id": "87d69bdf-eb8e-419a-b689-c5bcbcad5671"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B05", "patientId": "WP001", "reason": "State is UNKNOWN (need CONFIRMED_AVAILABLE)", "ts": 1788629311.1834447, "id": "61aa558f-1747-4f52-b750-77079876a7ad"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B05", "reason": "RECONCILIATION_TIMEOUT", "retries": 13, "ts": 1788629315.4569235, "id": "2d9e45e0-2854-49a8-806f-b36c4d663926"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788629325.7324219, "id": "f2896243-c8a3-4af3-b109-abf2aa6115b6"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788632487.7621307, "id": "bc3d2509-3854-4634-8633-4ee982ed19d4"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788632487.7632637, "id": "862df9a4-c11b-45e1-9ab6-74ffb656e696"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788632487.7640662, "id": "a325cae2-94fe-4c7d-854a-177291360019"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788632518.2961226, "id": "bff92a59-4c29-4ef4-9b26-4657a39bd4f8"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788632518.2965138, "id": "fcc7a0e3-4030-4dfc-b84c-ddf1d431b159"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788632518.2967017, "id": "865c5990-e379-4f26-b265-6c5dcbf6ff1e"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788632523.3016944, "id": "9007eb73-fe72-4502-9479-9b6f4a78b5b9"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788632523.3021555, "id": "db45728a-6e1d-4114-9b03-6853d6b414be"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788632523.302409, "id": "56b37298-de30-45e3-8202-3112fc25fb6e"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788638208.4387817, "id": "1d157630-df73-4854-82cc-0d7888809b8a"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788638208.4406428, "id": "77875ba8-b23b-409e-8330-6ab86ed6530d"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788638208.4422615, "id": "1c05b8a5-bc33-4298-ab14-ec85a56301d1"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788638238.974225, "id": "0c87f4ed-5561-43ea-ab16-5a12e341cb6e"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788638238.9748716, "id": "5716da4b-325c-4979-a94a-3181734a2ce4"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788638238.975617, "id": "798e42b1-4407-4730-ae9e-d081dcf0826d"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788638243.9807496, "id": "07409f6b-013c-4687-b435-f7275f5264e7"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B09", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788638243.981975, "id": "395e6de8-2ebc-423b-9137-072d4523fa8a"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788638243.982511, "id": "8ead079b-30bd-4b5a-b2c8-627968e5ad4d"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "a094de7d-bc86-4a8e-9fbf-cae374efd61d", "bedId": "B09", "source": "SOURCE_A", "eventTime": 1788640223.7906415, "note": "Ignored \u2013 older than current knowledge", "ts": 1788640234.6978734, "id": "452877a7-49dc-417e-811e-5b0f26da1488"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B09", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788640236.20225, "id": "18260595-218c-44ce-be4b-962d0679adb5"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788640249.139199, "id": "eb4a7e3e-68e9-4be5-bc08-6b44c9bfc455"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788640264.658873, "id": "bd24dba1-df07-4ad1-8c86-7d11b3197dd7"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788640280.177372, "id": "f37a744d-b49d-4ed7-ab3b-abd59af14365"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788640295.6961398, "id": "20010982-1836-453e-b23f-ff2c213d34b4"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 12, "ts": 1788640300.7023346, "id": "d5badf86-44c1-4992-9c20-871d3c762aa6"}
+{"type": "HUMAN_CONFIRMATION", "bedId": "B10", "user": "dr.chen", "state": "AVAILABLE", "reason": "Forget to update accurate\n", "ts": 1788640896.232829, "id": "8581f1ff-1fcc-4e46-89ba-f9c4d20a03e3"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B10", "patientId": "WP001", "reason": "Confirmation too stale", "ts": 1788640909.5061579, "id": "18522e75-3e7b-4afd-8dc5-d2d2990d6bd3"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788640911.352094, "id": "144267ae-0535-4b1c-ad9b-a873f1fb5a06"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B10", "patientId": "WP001", "reason": "State is UNKNOWN (need CONFIRMED_AVAILABLE)", "ts": 1788640911.374339, "id": "59101c9d-68ea-4b98-a4d6-62b266513d34"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 21, "ts": 1788640916.358571, "id": "e87adaa4-6477-4dae-846d-44bf62e473b6"}
+{"type": "HUMAN_CONFIRMATION", "bedId": "B10", "user": "dr.chen", "state": "AVAILABLE", "reason": "Delayed and written mistake found\n", "ts": 1788640974.4358034, "id": "f05275d8-88cb-4769-9f10-5fcab8521895"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B10", "patientId": "WP002", "reason": "Confirmation too stale", "ts": 1788640985.0372038, "id": "4ae170ab-44f7-4148-8858-00ea14071ad3"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B10", "patientId": "WP002", "reason": "Confirmation too stale", "ts": 1788640987.3310475, "id": "212edde6-ad11-4b1c-b2ac-8b6d673ecc1b"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B10", "patientId": "WP002", "reason": "Confirmation too stale", "ts": 1788640988.3337383, "id": "a1aff9f1-a424-4ee4-a274-6203d05e36a3"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B10", "patientId": "WP002", "reason": "Confirmation too stale", "ts": 1788640988.532457, "id": "f4a35152-df08-4a8e-bd9b-6451cbf1c647"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788640989.9345527, "id": "5bb6ed56-dc90-47c6-a43f-276f2d5d954d"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 30, "ts": 1788640994.9454467, "id": "6169c490-e0cb-47a3-b2d2-c905c4b120f0"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "e5d152ed-a538-4456-ad96-7e9b5cfeadcc", "bedId": "B09", "source": "SOURCE_A", "eventTime": 1788641023.967357, "note": "Ignored \u2013 older than current knowledge", "ts": 1788641034.8739676, "id": "dba0db65-00ba-436f-b592-fa1eef493755"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B09", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788641036.3782008, "id": "2457ac8b-f845-4442-9514-26908a1257b1"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B09", "patientId": "WP001", "reason": "State is OCCUPIED (need CONFIRMED_AVAILABLE)", "ts": 1788641041.011281, "id": "66240c31-9070-42b2-91f3-e806e2677748"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788641049.00965, "id": "e4cdbbb7-91e6-45db-94f3-891ca929c9cd"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788641064.5259428, "id": "99da1312-8e4d-4171-8517-42f65c14a50c"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788641080.043585, "id": "ef22836c-a545-4147-bde8-00e44a2a35a8"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788641095.5624514, "id": "339cb92d-cb42-4921-b0a5-2a800bd2ee24"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 12, "ts": 1788641100.5698485, "id": "1839cd34-83cc-4d89-a89c-7b67393419e6"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B05", "patientId": "WP-TEST", "reason": "State is OCCUPIED (need CONFIRMED_AVAILABLE)", "ts": 1788641164.3082988, "id": "998f219e-8904-42b3-9927-65062d085c11"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788641982.6983519, "id": "f0e2ef5f-2e64-4baa-bfb6-e16df23ab2db"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788641982.6995327, "id": "f33e6325-d684-44e1-a98d-4c0a2bacb3bd"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788641982.7002785, "id": "94c1b724-12bc-47b6-897a-775028e85ebc"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788642013.2342753, "id": "621d7720-1f43-4d36-892e-8c2c70415537"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788642013.2355711, "id": "176653ca-4cab-4801-a5df-7d4714c9082b"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788642013.2362778, "id": "da1730d7-5efe-4aa7-8f3f-22fa25a2b739"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788642018.2425163, "id": "270040f3-9fa7-48e8-a0d2-dfa05f4b1d05"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788642018.2434719, "id": "f7198202-b5b1-4eca-ae6d-c6535f151cb0"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788642018.2440796, "id": "a4bf416f-719b-46b8-9232-bca236a5d7be"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788642128.3306866, "id": "713f99db-f9da-4d07-8f01-ec22ebbbe783"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788642128.3319564, "id": "fb76d254-8996-4a89-bd43-0740794d4681"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788642128.3328767, "id": "bc588829-099f-4288-838a-4a4663dd3537"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788642158.8658636, "id": "0b341f4a-1eb5-4bdd-a76c-0d3f85f075e4"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788642158.8667862, "id": "612c5608-6e91-4b23-b23d-694e6678e14a"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788642158.86736, "id": "c9978721-8311-4b3e-b352-0f8efec8a493"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788642163.8727925, "id": "b60505d9-a31b-4408-8761-080f3723a57c"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788642163.8739235, "id": "c0be04e7-410c-4f81-8b81-7f43bf4296ac"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788642163.874531, "id": "a7b85ecf-fe1b-4f03-8d46-dead1c7c78b6"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788642250.4635549, "id": "c86c857e-8298-418a-9353-8f2033f10565"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788642250.464208, "id": "299c53e1-ee9f-47af-a039-94840ad9b8e8"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788642250.4648528, "id": "23a45c84-4d8d-4750-8db3-8d8cda0c999c"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788642280.9976368, "id": "2a237238-6a83-499e-8852-a784bdbdb39c"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788642280.9985986, "id": "37daacd9-e9cc-4fcf-80e1-1be5d9aeaaae"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788642280.9991639, "id": "b7d13cb1-98e3-4f73-a9f9-093a69c02c5f"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 12, "ts": 1788642286.005148, "id": "6969b993-6863-42cd-9b7b-3d86dbe60c12"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B09", "reason": "RECONCILIATION_TIMEOUT", "retries": 12, "ts": 1788642286.0055742, "id": "10685367-05a2-4486-9fa6-f168ac519c0e"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 12, "ts": 1788642286.0059328, "id": "3dc249a9-d2fc-4c71-8cfc-33c9bc64588d"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788642470.8411827, "id": "bd408b16-0531-43a1-b071-d5efb47cc40b"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788642470.84216, "id": "6b69bb90-7d28-49df-8076-3503c0ba96a9"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788642470.8427212, "id": "1bd90e3f-e275-4307-81a3-4abb190beabb"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788642501.375178, "id": "3ff0e8a2-3f05-43c8-af64-a666119d3d1e"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788642501.3758466, "id": "af517079-a303-41e4-b092-81f57e1cfc9a"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788642501.37628, "id": "cb601792-f765-47e3-8d1b-705cc080f48b"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788642506.3814046, "id": "02b0e28e-bed2-46ad-a171-06ea9059870f"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788642506.382367, "id": "a4141800-7377-4196-b751-89efcf8370ef"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788642506.3830016, "id": "8c54c527-bf9e-4366-b4cf-ef0cfff62bca"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B05", "patientId": "WP-TEST", "reason": "State is OCCUPIED (need CONFIRMED_AVAILABLE)", "ts": 1788643818.9333556, "id": "e989ae43-9e3f-4b2e-a1b2-87e200ccde32"}
+{"type": "EVENT_REJECTED", "eventId": "150b63f3-10f1-4307-961b-492472ef06b7", "reason": "Duplicate eventId", "source": "SOURCE_A", "bedId": "B05", "ts": 1788644089.071722, "id": "42c7aad7-a29e-4db9-bb7e-a272a2b32c7f"}
+{"ts": 1788644089.0723279, "type": "DUPLICATE_DETECTED", "eventId": "150b63f3-10f1-4307-961b-492472ef06b7", "bedId": "B05", "source": "SOURCE_A"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "042175be-a38d-4e21-9472-8a48823a149a", "bedId": "B05", "source": "SOURCE_A", "eventTime": 1788644080.821148, "note": "Ignored \u2013 older than current knowledge", "ts": 1788644090.8231525, "id": "ad29129c-a5c6-454c-9337-33f0a6758ace"}
+{"type": "RESERVATION_COMMITTED", "bedId": "B05", "patientId": "WP-TEST", "reservationId": "2719d4c1-be68-4048-a65c-0ca88ff6aae9", "ts": 1788644094.2837777, "id": "91d4708c-a1dc-4d96-88c8-4acffaa2128f"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788644100.3697667, "id": "5a8e7b1d-1514-4c1e-ab82-b3e0cd3dfc22"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788644101.4815283, "id": "8c183630-a944-4046-86a5-0bca3bdedc3b"}
+{"type": "EVENT_REJECTED", "eventId": "b8ca0f03-08e1-4163-9d80-ee7871fb9ee3", "reason": "Duplicate eventId", "source": "SOURCE_A", "bedId": "B05", "ts": 1788644103.5524473, "id": "9fd0f9e0-2a5d-447a-bf95-343db212d59d"}
+{"ts": 1788644103.5529482, "type": "DUPLICATE_DETECTED", "eventId": "b8ca0f03-08e1-4163-9d80-ee7871fb9ee3", "bedId": "B05", "source": "SOURCE_A"}
+{"ts": 1788644103.5907028, "type": "RAPID_STATE_CHANGES", "bedId": "B05", "count": 9, "id": "e2848b8f-9203-48ab-a1e2-ee3b8768ec50"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "c85692b5-830c-4626-bd9c-51e5f8418259", "bedId": "B05", "source": "SOURCE_A", "eventTime": 1788644095.8706226, "note": "Ignored \u2013 older than current knowledge", "ts": 1788644105.8718128, "id": "b8b43143-b6da-445c-b40b-aa4d25a5fdc5"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B05", "patientId": "WP-TEST", "reason": "State is UNKNOWN (need CONFIRMED_AVAILABLE)", "ts": 1788644107.4439204, "id": "ad99b96c-9e27-4816-bd95-e7c14fefb255"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B05", "reason": "RECONCILIATION_TIMEOUT", "retries": 20, "ts": 1788644111.099993, "id": "584d5a73-39df-4601-bb23-02a159c499fa"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "b64bd1f8-2efa-4acf-ad7c-f8cc382d2dfe", "bedId": "B05", "source": "SOURCE_A", "eventTime": 1788644216.162271, "note": "Ignored \u2013 older than current knowledge", "ts": 1788644226.1629372, "id": "3c3235b0-4f6b-4c66-a61a-a593612b2336"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788644235.412168, "id": "c7c63d16-c328-4ad2-a279-d961949de33d"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788644235.4126947, "id": "39ba17dd-be9b-43d9-b6ff-b6aea63866fd"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788644235.412983, "id": "280022ce-22e9-4040-910d-8c6faba33775"}
+{"type": "LEASE_EXPIRED", "bedId": "B05", "ts": 1788644256.253771, "id": "8ed6e8ba-ff25-4d56-90fd-7cc8d41561cb"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788644265.9471843, "id": "f3a92b0c-22a5-41ae-89a6-29ba2de59400"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788644265.948117, "id": "55fb4c7a-910d-4f6a-97b6-f81afcb1fcb9"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788644265.9488974, "id": "388a6298-c251-4250-869e-63f56e40e72f"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788644270.9555333, "id": "3c30f037-2f04-4516-8759-53c255c2e53a"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788644270.9559178, "id": "44568594-4aff-4f4f-a85a-dd22fd1d0a5f"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "ts": 1788644270.956105, "id": "b1c11dce-b390-49bf-98ee-6dd71a4da46b"}
+{"type": "LEASE_EXPIRED", "bedId": "B05", "ts": 1788644286.7860334, "id": "fa95a65b-0a78-4939-9bfa-994c2ac15cd0"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B05", "reason": "RECONCILIATION_TIMEOUT", "retries": 31, "ts": 1788644291.7933562, "id": "46b6d718-944e-4a72-ad12-e1438ddc90ff"}
+{"type": "EVENT_REJECTED", "eventId": "a97c9790-cf6a-4f68-8f0f-cfa8f9b9423e", "reason": "Duplicate eventId", "source": "SOURCE_A", "bedId": "B05", "ts": 1788644357.0873797, "id": "1e77ff68-c5ea-471b-9a76-5b2f43fb106f"}
+{"ts": 1788644357.0876107, "type": "DUPLICATE_DETECTED", "eventId": "a97c9790-cf6a-4f68-8f0f-cfa8f9b9423e", "bedId": "B05", "source": "SOURCE_A"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788644418.4235814, "id": "456fb5b6-f026-4afb-90d2-ad69dd31e2c4"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B05", "patientId": "WP-TEST", "reason": "State is OCCUPIED (need CONFIRMED_AVAILABLE)", "ts": 1788644538.420945, "id": "f9c7a72a-5455-405d-9a95-f29ae019ce94"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "d5d74990-f4d1-4b3c-afe7-96aa15cbe4b5", "bedId": "B05", "source": "SOURCE_A", "eventTime": 1788644672.2572203, "note": "Ignored \u2013 older than current knowledge", "ts": 1788644682.2584472, "id": "11b77450-e801-49d0-9539-1787465f92ab"}
+{"type": "EVENT_REJECTED", "eventId": "4184b2bf-8205-4a84-a02a-783ede1e7eb9", "reason": "Duplicate eventId", "source": "SOURCE_A", "bedId": "B05", "ts": 1788644683.88633, "id": "51b90267-3ba4-4e5e-9d17-7687c3c39b99"}
+{"ts": 1788644683.8867435, "type": "DUPLICATE_DETECTED", "eventId": "4184b2bf-8205-4a84-a02a-783ede1e7eb9", "bedId": "B05", "source": "SOURCE_A"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788644687.5557892, "id": "c6354120-90c3-4aa0-9a17-5dbefcb70f15"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B05", "patientId": "WP-TEST", "reason": "State is OCCUPIED (need CONFIRMED_AVAILABLE)", "ts": 1788644689.2339394, "id": "adb0df10-fea3-45c9-9971-5ff0e5f425bf"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "884728b4-eb81-4e56-901c-956341c22981", "bedId": "B09", "source": "SOURCE_A", "eventTime": 1788644741.8473542, "note": "Ignored \u2013 older than current knowledge", "ts": 1788644752.7568352, "id": "87482280-29db-4222-ba7b-0b7578d617e3"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B09", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788644754.2617147, "id": "2efb51b5-e624-44c2-b0bc-8aea0dbe664f"}
+{"type": "ALLOCATION_BLOCKED", "bedId": "B09", "patientId": "WP001", "reason": "State is OCCUPIED (need CONFIRMED_AVAILABLE)", "ts": 1788644758.9043632, "id": "67e65c94-a222-446f-a53c-ad209a6230b4"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788644767.333361, "id": "2a5f1227-07f1-4982-a76f-da8e862b7a74"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788644789.419602, "id": "d02d64e3-0144-4f57-8b42-4613ea15cf8e"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788644808.3778458, "id": "de19f6c1-c767-4997-9f14-2a72eded2210"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788644808.3791595, "id": "676e645b-bacd-4de9-a5ce-8d00e94137eb"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788644808.3800735, "id": "7f6727fe-b5fe-448c-ae02-5daf17063242"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788644823.899059, "id": "ed0159c5-fd77-4193-a390-e3a4fed5204b"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788644823.8997757, "id": "b69da1e6-5244-4d64-b730-2991a2b661e3"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788644823.9001513, "id": "ec4a5251-1034-4933-8983-aa4b8369ccc9"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788644840.8825612, "id": "50d59731-fc4e-429c-9426-22d1ce324d23"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B05", "reason": "RECONCILIATION_TIMEOUT", "retries": 13, "ts": 1788644845.9221356, "id": "09862e8c-68f0-4ecc-b916-d5d2d5fec2d2"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788644849.427343, "id": "1ca1351e-5e78-4dc1-878d-ea2cb53a9a7c"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788644849.4279904, "id": "94245a21-4c80-4098-9c20-e098e95dab95"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788644849.4284136, "id": "8f87fe70-ec3d-4e7f-a884-7869ff6d5e19"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788644864.9424489, "id": "8837248e-0398-4446-9977-70a9fef69f76"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788644864.9446778, "id": "b2f0dc73-a53e-4db9-9c5d-02c163aedc52"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788644864.9453306, "id": "1809a8d5-17bf-4e5d-9cde-7e1e91bc5cfa"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788644880.4634073, "id": "57820973-6e19-4043-ab0f-26dca884e25e"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788644880.4646065, "id": "031f5d42-2eb4-434d-aa83-98cb4dc32a95"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788644880.4657788, "id": "0f1cf821-19a1-4fce-acac-f91a49fca4c5"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788644895.9835486, "id": "f9998d78-4172-402e-a687-f2ab3d64f354"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788644895.9851363, "id": "ab732921-fea5-4ecc-9fb0-70b388404e8e"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788644895.986185, "id": "4201f110-3c61-46f6-8058-ae7a1c9329e6"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 12, "ts": 1788644900.9926655, "id": "0f72c42c-8b9c-4e31-a5ac-67d1280d1e03"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B09", "reason": "RECONCILIATION_TIMEOUT", "retries": 12, "ts": 1788644900.994379, "id": "8ca1e07f-08d2-40e2-b475-b341471e4826"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 12, "ts": 1788644900.9957056, "id": "c1f07325-4d40-4541-b77f-34d927c85b9b"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788645773.021195, "id": "8a2646ac-6cf1-4f0a-96ef-e88598bf237b"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788645773.0226877, "id": "bd518b6d-a2ff-46ae-9b27-99ea38ab6319"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788645773.0240257, "id": "6e13d6d8-6f6a-4164-9376-4f639e7bdb94"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788645803.557494, "id": "992c30c3-ae97-4895-83f7-b6477a9b0033"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788645803.55852, "id": "cf27248c-5d5e-460b-ae59-6550872bfafb"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788645803.5592744, "id": "ff585d23-c382-4018-b517-300d2dd8ab04"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788645808.5660028, "id": "ff713742-ceb4-45aa-9622-89d7a634ace1"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788645808.5664058, "id": "f61624a2-71f9-45af-a255-19e95636cdb3"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788645808.566673, "id": "3aecd8d4-90e3-43ee-83de-c775a8326916"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788664859.9133365, "id": "dbcc5a2b-8d44-436f-a67f-fb36625b04ac"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788664859.9137866, "id": "ac183986-0bf2-4a32-b49a-eead7535089a"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788664859.9139884, "id": "315317ac-ac98-4a8b-b943-3c72376294f9"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788664890.4447625, "id": "e851f64c-2449-415b-a9cc-58500637dadb"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788664890.445753, "id": "2d71c1b1-bc55-43b0-a27f-03ce566b55d8"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788664890.4463406, "id": "689706a0-4eaa-43f7-8e3d-8ae895707e02"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788664895.4524653, "id": "60084d52-0b71-481a-842e-5c3fcec9534a"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788664895.452978, "id": "1561dde9-f01a-4592-a3a0-0073e0362974"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788664895.4532497, "id": "29ab4e61-8643-479d-9c03-e5dc7927f9aa"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788666228.872394, "id": "ac76c93b-554e-4110-b3dc-a19528bbb6e0"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788666228.8736415, "id": "a9ef837d-537e-488f-a859-275ba271d48b"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788666228.874569, "id": "4a7510fe-a6c9-4e25-ad7a-85c9ff6f773d"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788666259.410137, "id": "f4b19cf4-12a6-4f13-895e-5d4d7f19b99f"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788666259.411411, "id": "db28f6a8-1d9c-4fa2-a64e-4cec4c7602cb"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788666259.4116871, "id": "571722ec-99bb-413e-ae35-de369317d5b0"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788666264.417508, "id": "8ed01fea-5498-47b8-b2d9-eb459f7d52bd"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788666264.4178948, "id": "5bb26b04-cc83-439c-9e2b-86ccb25bd59b"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788666264.418087, "id": "e7dc399a-3d92-4eac-9136-ca532f493972"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788666347.1996257, "id": "30dae70d-eb39-4d70-be41-b5e341cf7824"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788666347.2000074, "id": "dc38907c-dc28-4304-9d71-13c29f51584f"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788666347.2002048, "id": "4b80be68-9571-4213-950a-92eb61ca7a96"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788666377.73492, "id": "c3def2b5-4d66-4b5e-b9e4-5c239b042ffd"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788666377.7358027, "id": "e05ab2c1-ff03-470d-bf36-c8227a4d31e3"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788666377.736559, "id": "432ba0b1-4b42-402b-83bd-0aaf5cebbcd8"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788666382.742881, "id": "30bb6ed8-2113-461d-85b2-dc0f3a796e0a"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788666382.7437901, "id": "92b555a5-b89c-4fa0-b5b8-0faacbaa6101"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788666382.7443247, "id": "dd4de0af-db08-45e5-8914-35541f5b536e"}
+{"type": "LEASE_EXPIRED", "bedId": "B05", "ts": 1788666456.3252413, "id": "8c8735fd-508b-47f7-8db7-a7b5580b2fd2"}
+{"type": "LEASE_EXPIRED", "bedId": "B05", "ts": 1788666486.8592603, "id": "66a29c6b-f73b-4ad4-a04c-6ed6d7bd0f7c"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B05", "reason": "RECONCILIATION_TIMEOUT", "retries": 14, "recommendation": "INSUFFICIENT_EVIDENCE", "ts": 1788666491.8663867, "id": "602594f7-a7f1-4a9c-a944-6d3fbbc84ed4"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788666500.4360647, "id": "23f7034c-2f4a-49cb-b22e-16d5c16e9aae"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788666708.2059922, "id": "8df182a9-9b9e-45be-8f0d-f613e28d6575"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788666708.207689, "id": "05aae9d8-7168-40a2-837f-c5ffc0533b54"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788666708.2082415, "id": "52cea959-99e7-4051-b6da-78511f385976"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788666738.742207, "id": "70c1409e-4e76-4eb5-af4d-02c16d88664b"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788666738.7435918, "id": "289bebc5-6e6a-421c-942e-838cba166dea"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788666738.7452407, "id": "5bfccd3a-5854-4777-92fe-1dd41d8c11ec"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788666743.751304, "id": "0212b1ac-2c49-4a74-8349-4835ab34a51f"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788666743.7523909, "id": "69a5ba60-0e00-4262-95a9-48b474cf96ab"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788666743.7531707, "id": "063d7d78-6b0d-4e57-b6f6-b8f482eaf3ef"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788667220.774852, "id": "c8adbd40-b5fc-440b-9c82-b47579350de8"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788667220.7764733, "id": "8a008d06-1fac-46db-9c5e-5a2d32587635"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788667220.7778888, "id": "91741662-a22d-49da-bb6e-c4a548d89f8a"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "4aec2704-ef6c-4b5a-8a9d-15f4001b89c4", "bedId": "B09", "source": "SOURCE_A", "eventTime": 1788667222.7329698, "note": "Ignored \u2013 older than current knowledge", "ts": 1788667233.6408596, "id": "ad13fde4-3a07-4ba9-950a-a6d4c60e4c49"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B09", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788667235.1461852, "id": "433abcb6-b622-466d-9ec7-23c9fa4e87a2"}
+{"type": "ALLOCATION_FAILED_NO_ALTERNATIVES", "bedId": "B09", "patientId": "WP001", "reason": "State is OCCUPIED (need CONFIRMED_AVAILABLE)", "ts": 1788667239.7800574, "id": "9163db03-156f-41d1-b8bf-9e3030256c61"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788667247.8115637, "id": "55f44015-a3ae-4cc5-a65f-0a7b20cd3e8e"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788667263.3343065, "id": "50cc71b8-8d42-4bdd-9764-edc6f5e310f6"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788667282.3566492, "id": "3bd4f070-ab4c-4d92-a955-7275ff0b6752"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788667297.8772068, "id": "f3f32d56-4cb3-4c79-9013-9834453913d2"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 13, "recommendation": "LIKELY_AVAILABLE", "ts": 1788667302.8841755, "id": "7c742cac-c182-4900-9c9c-06502a94e843"}
+{"type": "HUMAN_CONFIRMATION", "bedId": "B10", "user": "auto-reviewer", "state": "OCCUPIED", "reason": "Likely Available because there are 2 signals for availability (clean/empty context).", "ts": 1788667701.8863401, "id": "009991aa-9ceb-487a-b75c-c0b94a60e037"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "61e366b4-dffa-45e9-ba2d-58dca622c8f3", "bedId": "B09", "source": "SOURCE_A", "eventTime": 1788667757.4613323, "note": "Ignored \u2013 older than current knowledge", "ts": 1788667768.3690352, "id": "09e9068f-47f3-4018-9e08-0e95d2032516"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B09", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788667769.8733578, "id": "c2a8bfe7-ad07-41e9-9103-e9d49d4328f9"}
+{"type": "ALLOCATION_FAILED_NO_ALTERNATIVES", "bedId": "B09", "patientId": "WP001", "reason": "State is OCCUPIED (need CONFIRMED_AVAILABLE)", "ts": 1788667774.479699, "id": "a5f226e3-76ec-47c9-a4cc-b1a5b0da8295"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788667782.4924667, "id": "945f2bee-f1f2-4885-aa9e-eaa1ae31bea6"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788667798.0130396, "id": "f7b61568-7c9d-46b0-bb65-40dc7b98f738"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788667813.5327678, "id": "02111638-63d8-4f5b-b540-f3b58b9e1534"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788667829.0496662, "id": "a09c3818-991b-493d-a2f0-a31f07071dde"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 12, "recommendation": "LIKELY_AVAILABLE", "ts": 1788667834.0566175, "id": "487cc0e7-4b9e-46b1-adf9-3ca67ed141d9"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788669893.2056274, "id": "bbc5f091-91ba-43b7-b11d-cb1e1fbda88f"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788669893.2060735, "id": "7864e31c-7fb9-4500-b799-118a924dd852"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788669893.2062795, "id": "3e4f097b-f9dd-4ba7-9b7c-b1379c4e4a6f"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788669923.7425168, "id": "bb2dc470-8afa-42fe-b921-cbee031f8d0c"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788669923.7429376, "id": "a1ce6231-a179-4611-938f-711e106a0d21"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788669923.7432044, "id": "a7b01d7e-b8f4-455e-a904-b496b3489b6e"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788669928.7484996, "id": "650fc1c9-f11a-43b5-bdf7-13fa4b5611a0"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788669928.749296, "id": "e36fced3-0a2f-4947-b2ac-312ecd33b44a"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788669928.7498097, "id": "5b449ce0-41a3-441b-bb38-bca11c7ce0b0"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788673233.8387978, "id": "8e6d27f7-7c44-4eb3-8e26-575326181647"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788673233.8400133, "id": "61b0a665-ec45-4b1e-a29b-c1f7b73bd23d"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788673233.8404973, "id": "e6f1b6ad-1d73-430b-a98e-169eea1f60bb"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788673297.9075825, "id": "1e0a3f16-d87e-481f-b1f7-b72bb3305c94"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788673297.9086096, "id": "a90acfa1-95c1-4720-a568-034bdcd6345a"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788673297.9095728, "id": "8c5881e7-24ab-4123-80c2-6cad3bd4f148"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788673328.4371188, "id": "faef0aa6-f614-4275-8950-4014123b2865"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788673328.4375663, "id": "12525488-26f6-40b5-8d1a-6b646ce33167"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788673328.4378107, "id": "52dda7ae-836a-4ec0-8eca-fdacd892385b"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788673333.4425082, "id": "930ee87e-2ba2-4874-9544-ab5e29c9a227"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B09", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788673333.4436033, "id": "84d89bfa-0d7f-402a-964b-6645b5511ac5"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788673333.4443297, "id": "d6a798ce-a4e0-4fbc-afb2-ac517880c9c0"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788673373.0030558, "id": "abb4e0bf-012d-483a-bcc8-3b40fd472db4"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788673373.0035136, "id": "9d46cb9e-7fd5-431c-8f4d-d660a13caccc"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788673373.003787, "id": "c1972906-0041-46c3-8841-e1637694b55f"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788673403.5419023, "id": "220c629b-af26-4ddb-9c44-8b1722e4ffe5"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788673403.5433955, "id": "f219317b-6927-4882-8d3a-2ba0da9f1385"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788673403.5443122, "id": "1b37417b-f2f4-436f-a34b-aa1bbdf1d1e1"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788673408.5520678, "id": "5ced2840-28f0-4295-8dd5-aa85de75883c"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788673408.553601, "id": "72ef0c57-3dec-4129-b3cc-f1aee3483e27"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788673408.5552082, "id": "6806b01f-6b6b-4f58-91b4-6bb851932bb2"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788673608.2442584, "id": "e24ca1db-a50c-4702-ac47-6606b74cfbdc"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788673608.2455542, "id": "d358897e-37e7-4f83-ac95-9b54617abdfe"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788673608.2469206, "id": "2ecc165a-8fe0-4183-aea6-e275b15ab1aa"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788673638.7797484, "id": "76cb92ec-f11d-4ae7-b6a2-149cc5084042"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1788673638.7810235, "id": "a961da06-3565-497b-9063-608ec60babde"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1788673638.781887, "id": "6d76001e-1b13-4853-a52b-61e29d8b88f0"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788673643.7874427, "id": "6ee9c8b1-011e-4cff-963e-d3aa0c1b4615"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B09", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788673643.7884567, "id": "a74f5b89-f8a3-4968-b77b-89b993656a2a"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788673643.789173, "id": "a0ff39c8-4b73-466d-8505-5cae5313421d"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788929423.7782993, "id": "c02432a8-4c1f-4c42-bf05-0e88da6bcaca"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788929423.779086, "id": "4969497e-0b4c-4223-a528-1e05e1edc4c2"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788929423.7794135, "id": "4b8350ab-c878-4876-b05e-3c3383f85b8d"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788929454.3071425, "id": "f590d4f3-f4d0-4aee-bc97-0e63bf50fe09"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788929454.3074496, "id": "7ee0d425-fbea-42c2-acfd-94e4ffbeac96"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788929454.3076515, "id": "d006d959-10ba-4ddc-b286-28c330482426"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788929459.3140423, "id": "5b1ee7c1-9226-4b3b-a049-699db837c186"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788929459.3143654, "id": "cadc53fc-43af-4a4f-b029-4421db16b8c1"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788929459.3145888, "id": "59b052ce-ffbe-43e5-8a62-8601347dbced"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1788929880.6881006, "id": "b7a61bad-1405-41b6-860f-3337bc460268"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788929893.9424753, "id": "52a6bc9b-0404-4939-b577-6531c711d49f"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788929893.943645, "id": "25b5e405-cb01-4f35-86ea-cf4db7dd4170"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788929893.9446383, "id": "e7fb4288-7c18-4db0-a2a9-22c960a63e38"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1788929924.4845927, "id": "6655ad95-17c3-46d2-84e4-e69e763c47f2"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1788929924.486561, "id": "e5e80489-da94-4154-8bdd-53a4b425e34b"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1788929924.4875712, "id": "ba8171ce-9cf0-4137-8619-f9335ba47ba1"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788929929.4948583, "id": "a44f8e46-de02-4022-8459-e8f2a3b140c2"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788929929.4964662, "id": "665a7410-bb21-45ae-a43c-df4e433dea07"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1788929929.4978178, "id": "0c5429e6-f906-4bc6-8310-9e3610182166"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1793345988.4492977, "id": "67ba6055-094b-4c86-bb26-95fc242ea895"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1793345988.4499238, "id": "7c170588-1591-4252-a668-197329e95b54"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793345988.450237, "id": "ec116cde-16ca-4fd8-a1ee-c4c1e3d87a0b"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1793346018.9799132, "id": "f1e038f0-ef9b-4f36-8277-561e12895696"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1793346018.9806836, "id": "75587547-4fc3-4592-8313-ac178920f110"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793346018.9811804, "id": "102dc22e-aca9-4382-b18a-0f1f1a70633b"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793346023.9861443, "id": "5f2dbced-0ce4-4044-893a-6e8308ba95c1"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793346023.9868999, "id": "4f61dbcb-8423-4fe9-890f-f8c78cea9ebb"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793346023.988456, "id": "1f06717d-fe52-4aa3-bcf4-a873d5d62354"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "fb3ae3d1-5cb2-45a5-a27d-43b7cfc012c0", "bedId": "B09", "source": "SOURCE_A", "eventTime": 1793346392.7085905, "note": "Ignored \u2013 older than current knowledge", "ts": 1793346403.6132472, "id": "b9e9dcd0-c9f9-4281-9feb-16586e4b7885"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1793346404.6433828, "id": "9abd6320-aced-4c8f-b385-53e80199f6a2"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1793346404.6533213, "id": "5d289081-5d57-4190-85e0-b97ab143c81b"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "d6ac6c75-a0de-44c4-ac02-8c442b8d8c82", "bedId": "B05", "source": "SOURCE_A", "eventTime": 1793346404.7115092, "note": "Ignored \u2013 older than current knowledge", "ts": 1793346404.7119405, "id": "e8f86881-5f76-4451-9e53-45c2c7769fc4"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "712f2567-af6c-4ed7-bfbe-6f406454a934", "bedId": "B05", "source": "SOURCE_B", "eventTime": 1793346404.7615092, "note": "Ignored \u2013 older than current knowledge", "ts": 1793346404.7124462, "id": "687796dc-5b56-414e-8f3f-4ef03f9e691d"}
+{"type": "HUMAN_CONFIRMATION", "bedId": "B01", "user": "tester", "state": "AVAILABLE", "reason": "ok", "ts": 1793346404.741514, "id": "ebd27b8c-028f-4d21-860f-1c1716ebc76b"}
+{"ts": 1793346404.9546287, "type": "RAPID_STATE_CHANGES", "bedId": "B05", "count": 11, "id": "d2f4a034-9024-4c9e-b494-5ddfbaa6f14c"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B09", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1793346405.115095, "id": "7a2e820a-42ac-402a-a3fa-61b355cb7baa"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1793346406.668379, "id": "f69be2ae-86c6-40ee-8866-9aa837dff11a"}
+{"type": "LEASE_EXPIRED", "bedId": "B01", "ts": 1793346419.9709454, "id": "f059f521-0ade-4c83-88e4-cbc056009fb7"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1793346419.9713988, "id": "ff6754dd-d82a-45eb-a74c-640d87ee8d48"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B01", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_OCCUPIED", "ts": 1793346424.9768577, "id": "8c536bed-1385-4a54-80b1-824f2027d1d0"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1793346435.4885576, "id": "c606f91e-1ca3-4a24-9403-ea4bd0a027ea"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1793346451.0046377, "id": "870616cb-8899-4a2c-8fa3-7cd977b9f7c5"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1793346466.5217254, "id": "63fb1c6c-cbd3-42ad-bb06-80d6d2f923ce"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 13, "recommendation": "LIKELY_AVAILABLE", "ts": 1793346471.5264206, "id": "02e09086-5aa7-4997-8e64-736a0b5b8dec"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793346701.995165, "id": "ad982f14-5c06-408c-bd6b-ff15a5060a9c"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793346732.5339618, "id": "955a752f-2898-4a54-82f0-33a61c36529a"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793346737.5397892, "id": "31d967f6-6b6a-45ff-8731-04170096ab73"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1793349093.246333, "id": "2e75f61a-84a3-4c59-9b6b-08c21d7bad27"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1793349093.2472777, "id": "516dc347-9f21-4ea0-bc36-cc92268188bc"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793349093.2477736, "id": "0b78a474-068c-4a49-96f5-0a1c470ec802"}
+{"type": "ADMIN_DRIFT_CORRECTED", "bedId": "B05", "from": "AVAILABLE", "to": "OCCUPIED", "ts": 1793349113.8070445, "id": "4d46e1e7-9207-405e-9a85-6194b83b8ec1"}
+{"type": "OUT_OF_ORDER_STALE_EVENT", "eventId": "b882ea9e-ad34-4740-b5b5-956f7f7eeb3a", "bedId": "B05", "source": "SOURCE_A", "eventTime": 1793349113.824634, "note": "Ignored \u2013 older than current knowledge", "ts": 1793349113.8251393, "id": "c331d5f4-1292-4f20-9309-e32a7f822fcd"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793349123.7839372, "id": "8f4d26bc-b8e4-4503-b0e7-04162582fde4"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793349128.7905564, "id": "54815046-703f-4071-9156-ffb37b24542d"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1793349380.7073023, "id": "439a6ff8-9851-482c-9fb0-26d0cfff81f0"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1793349380.7083018, "id": "062da5b2-5e79-4d77-a357-894efebe7fb1"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793349380.7089303, "id": "6282cc5a-e1a5-4adb-88fd-04d73111f20d"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1793349411.239903, "id": "0fcb5ada-5ad5-48e3-a6a9-01619b88f875"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1793349411.240428, "id": "192fbac3-7766-42f9-b281-969d92be8942"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793349411.2407305, "id": "daeae1d7-fda1-47e0-bfe3-eff047f691b9"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793349416.2462049, "id": "2d1c9f3b-4a58-4cd3-bc88-f85630ee3996"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793349416.2471144, "id": "a4706872-7790-408f-a43c-4dce9d037d23"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793349416.2484636, "id": "b08ea81b-c5ad-462b-a4ab-c4745fc08da3"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1793349554.3343115, "id": "19880f27-d232-46f0-9c19-69f153d44ee8"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1793349554.3355334, "id": "adfb9df2-bd22-4204-8b68-6558609e340d"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793349554.3363752, "id": "1677c4a2-5cee-4d18-8521-b6f82179f5fb"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1793349584.869042, "id": "023d9037-fdcb-41e5-90c5-4f5567b691e0"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1793349584.8702688, "id": "24201f68-8536-4fcc-8ce7-0cb74e5ebaae"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793349584.8711452, "id": "2a2fe5de-0dfb-4b8b-8fb7-02ff4f5a186e"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793349589.8785477, "id": "dc0387a5-98d2-4185-a528-4bb7cf8637ed"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793349589.8792622, "id": "b9910bfd-d5e0-47f3-97a9-e28f284ef73d"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793349589.8797922, "id": "c13213e2-4270-4b0c-93fd-8d3d66168a9d"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1793350940.8845851, "id": "47a934d6-7093-497f-a177-283a52c1def2"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1793350940.8865387, "id": "0b805546-e30c-4257-9f73-e0342a6219bb"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793350940.8874612, "id": "970fbb7d-284b-4d58-ab7e-84d308f237bd"}
+{"type": "LEASE_EXPIRED", "bedId": "B06", "ts": 1793350971.4544775, "id": "d77234d0-fab1-4338-9054-27fd33d3611b"}
+{"type": "LEASE_EXPIRED", "bedId": "B07", "ts": 1793350971.4554915, "id": "81d22a18-1a48-4645-8a38-0c549fdca3e5"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793350971.456229, "id": "aae625bc-118b-4805-bf16-ae4566e3e16d"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B06", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793350976.464465, "id": "93e57c9e-34e3-49b0-9707-118b443ede3b"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B07", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793350976.46602, "id": "6a0f78df-d5f9-4520-918b-86345721b8ec"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793350976.4675245, "id": "d79680b6-7e69-44ee-83b6-13934b563429"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793351483.9934733, "id": "e06269b9-6ac9-491f-b6d5-85a3df686de6"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1793351483.9943266, "id": "844f716a-9871-4221-ba79-1198df996c2e"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1793351483.9949188, "id": "326bb524-d121-42e2-8089-d1ca3e5f87ee"}
+{"type": "LEASE_EXPIRED", "bedId": "B08", "ts": 1793351514.527725, "id": "2e219b0b-19fe-4a04-b0c4-0d41bedcb38d"}
+{"type": "LEASE_EXPIRED", "bedId": "B09", "ts": 1793351514.5282142, "id": "5a141698-7c32-4ed4-8de1-320bb96958c2"}
+{"type": "LEASE_EXPIRED", "bedId": "B10", "ts": 1793351514.5284307, "id": "c9276600-48d7-4e9d-8964-73fa38b976e2"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B08", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793351519.533646, "id": "dcdb6b3a-0aee-42e5-af87-3643966943d0"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B09", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793351519.5346003, "id": "ca9b3c2a-6870-4baf-8d48-6294cc02a387"}
+{"type": "RECONCILIATION_TIMEOUT", "bedId": "B10", "reason": "RECONCILIATION_TIMEOUT", "retries": 10, "recommendation": "LIKELY_AVAILABLE", "ts": 1793351519.5351846, "id": "29f2dc63-d7d9-413e-906a-b9b20ffa480e"}
